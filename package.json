@@ -17,6 +17,8 @@
   "dependencies": {
     "@remotion/bundler": "4.0.154",
     "@remotion/cli": "4.0.154",
+    "@remotion/google-fonts": "^4.0.154",
+    "@remotion/media-utils": "^4.0.155",
     "@remotion/zod-types": "4.0.154",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -25,11 +27,11 @@
   },
   "devDependencies": {
     "@remotion/eslint-config": "4.0.154",
+    "@remotion/tailwind": "4.0.154",
     "@types/react": "^18.0.26",
     "@types/web": "^0.0.143",
     "eslint": "^8.43.0",
     "prettier": "^3.2.5",
-    "@remotion/tailwind": "4.0.154",
     "typescript": "5.4.5"
   },
   "scripts": {

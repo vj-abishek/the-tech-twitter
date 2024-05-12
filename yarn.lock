@@ -600,12 +600,26 @@
   dependencies:
     "@typescript-eslint/utils" "5.19.0"
 
+"@remotion/google-fonts@^4.0.154":
+  version "4.0.154"
+  resolved "https://registry.yarnpkg.com/@remotion/google-fonts/-/google-fonts-4.0.154.tgz#3f9e0d34b68d90ef539f984b4d0f53664e634bb5"
+  integrity sha512-j2viI4Rt5ZZb1730+vh2NDsDIQAD3r3ibyKZ0vS7YBvoduFLjYNpa/lbztrLJn3iTFaWwhB7kTM3RBZr9DErAg==
+  dependencies:
+    remotion "4.0.154"
+
 "@remotion/media-utils@4.0.154":
   version "4.0.154"
   resolved "https://registry.yarnpkg.com/@remotion/media-utils/-/media-utils-4.0.154.tgz#9fc008193a763560e1c5122f2a4360979b3b8568"
   integrity sha512-Hfo42vrY3BgqrIARtQCiI0xRtV6uYUX8dhHAcUwGsqpy5KvMZ7iW48SBuG6YCGOwuebYq0naa0o4XEiuqC7eLg==
   dependencies:
     remotion "4.0.154"
+
+"@remotion/media-utils@^4.0.155":
+  version "4.0.155"
+  resolved "https://registry.yarnpkg.com/@remotion/media-utils/-/media-utils-4.0.155.tgz#85bc3a6196ad9241ea4bdc3f3583f0778f062c64"
+  integrity sha512-G84hgNZszhJyaLoLIrFjzRNrtxC/6psA883MFeoKz7SkpmZo8xwGv8JawAMcC7BOYB0oiDpZb7Sohr/1V2yNxg==
+  dependencies:
+    remotion "4.0.155"
 
 "@remotion/player@4.0.154":
   version "4.0.154"
@@ -3357,6 +3371,11 @@ remotion@4.0.154:
   resolved "https://registry.yarnpkg.com/remotion/-/remotion-4.0.154.tgz#11312f3b5bbbae28f4364937982f367c669ebe8e"
   integrity sha512-2F8EJA3f+ezrLAchB4V2qJMx2az8SHPI769c2HknZXjsqognjtkBTC080dP/nRvzoit7joTfITpdDyWh/OiXZQ==
 
+remotion@4.0.155:
+  version "4.0.155"
+  resolved "https://registry.yarnpkg.com/remotion/-/remotion-4.0.155.tgz#5315fbcd9f70a8c7589e7325bf87237b0e4fd884"
+  integrity sha512-JOYIc6ptPhd4ipIrX4KzUGT871VD5OgFF2lxjCaSNGbYz9EoeNSDWSbUB29yYuv8kE4MOSzplQkXJpXWZDmgTA==
+
 resolve-from@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/resolve-from/-/resolve-from-4.0.0.tgz#4abcd852ad32dd7baabfe9b40e00a36db5f392e6"
@@ -3558,6 +3577,7 @@ source-map@^0.8.0-beta.0:
     whatwg-url "^7.0.0"
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -3622,6 +3642,7 @@ string.prototype.trimstart@^1.0.8:
     es-object-atoms "^1.0.0"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==

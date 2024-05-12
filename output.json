@@ -1,0 +1,1260 @@
+[
+	{
+		"id": "1789093149509304731",
+		"heading": "Tech Breakthroughs",
+		"subheading": "Finder's Intelligence",
+		"content": "Finder is actually smart 🤯Where it can able to get content when typed \"Files I opened today\" or \"Photos I opened today\"",
+		"link": "https://twitter.com/hieudinh_/status/1789093149509304731",
+		"tweet": {
+			"success": true,
+			"tweet": {
+				"all": {
+					"__typename": "Tweet",
+					"lang": "en",
+					"favorite_count": 714,
+					"possibly_sensitive": false,
+					"created_at": "2024-05-11T00:40:21.000Z",
+					"display_text_range": [0, 27],
+					"entities": {
+						"hashtags": [],
+						"urls": [],
+						"user_mentions": [],
+						"symbols": [],
+						"media": [
+							{
+								"display_url": "pic.x.com/w84f7fkzdb",
+								"expanded_url": "https://twitter.com/hieudinh_/status/1789093149509304731/video/1",
+								"indices": [27, 50],
+								"url": "https://t.co/W84f7fkzdb"
+							}
+						]
+					},
+					"id_str": "1789093149509304731",
+					"text": "Finder is actually smart 🤯 https://t.co/W84f7fkzdb",
+					"user": {
+						"id_str": "2808665022",
+						"name": "Hieu Dinh",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1750334158617088000/take9yvV_normal.jpg",
+						"screen_name": "hieudinh_",
+						"verified": false,
+						"is_blue_verified": true,
+						"profile_image_shape": "Circle"
+					},
+					"edit_control": {
+						"edit_tweet_ids": ["1789093149509304731"],
+						"editable_until_msecs": "1715391621000",
+						"is_edit_eligible": false,
+						"edits_remaining": "5"
+					},
+					"mediaDetails": [
+						{
+							"additional_media_info": {},
+							"display_url": "pic.twitter.com/W84f7fkzdb",
+							"expanded_url": "https://twitter.com/hieudinh_/status/1789093149509304731/video/1",
+							"ext_media_availability": {"status": "Available"},
+							"indices": [27, 50],
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1789093051920449536/pu/img/qCnMQrs5zurODQ2H.jpg",
+							"original_info": {
+								"height": 1022,
+								"width": 1496,
+								"focus_rects": []
+							},
+							"sizes": {
+								"large": {"h": 1022, "resize": "fit", "w": 1496},
+								"medium": {"h": 820, "resize": "fit", "w": 1200},
+								"small": {"h": 465, "resize": "fit", "w": 680},
+								"thumb": {"h": 150, "resize": "crop", "w": 150}
+							},
+							"type": "video",
+							"url": "https://t.co/W84f7fkzdb",
+							"video_info": {
+								"aspect_ratio": [748, 511],
+								"duration_millis": 19480,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12&container=cmaf"
+									},
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/394x270/AY3lSjebk64ErHO8.mp4?tag=12"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/526x360/A31g14dQws5jio1a.mp4?tag=12"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/1052x720/DGPvxSFOJRdnpKlP.mp4?tag=12"
+									}
+								]
+							}
+						}
+					],
+					"photos": [],
+					"video": {
+						"aspectRatio": [748, 511],
+						"contentType": "media_entity",
+						"durationMs": 19480,
+						"mediaAvailability": {"status": "available"},
+						"poster": "https://pbs.twimg.com/ext_tw_video_thumb/1789093051920449536/pu/img/qCnMQrs5zurODQ2H.jpg",
+						"variants": [
+							{
+								"type": "application/x-mpegURL",
+								"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12&container=cmaf"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/394x270/AY3lSjebk64ErHO8.mp4?tag=12"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/526x360/A31g14dQws5jio1a.mp4?tag=12"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/1052x720/DGPvxSFOJRdnpKlP.mp4?tag=12"
+							}
+						],
+						"videoId": {"type": "tweet", "id": "1789093149509304731"},
+						"viewCount": 0
+					},
+					"conversation_count": 33,
+					"news_action_type": "conversation",
+					"isEdited": false,
+					"isStaleEdit": false
+				},
+				"text": "Finder is actually smart 🤯",
+				"likes": 714,
+				"replies": 33,
+				"createdAt": "12:40 AM · 11 May 2024",
+				"avatar": "https://pbs.twimg.com/profile_images/1750334158617088000/take9yvV_400x400.jpg",
+				"name": "Hieu Dinh",
+				"username": "hieudinh_",
+				"verified": false,
+				"isBlueVerified": true,
+				"images": [
+					"https://pbs.twimg.com/ext_tw_video_thumb/1789093051920449536/pu/img/qCnMQrs5zurODQ2H.jpg"
+				],
+				"video": [
+					{
+						"type": "application/x-mpegURL",
+						"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12&container=cmaf"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/394x270/AY3lSjebk64ErHO8.mp4?tag=12"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/526x360/A31g14dQws5jio1a.mp4?tag=12"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/vid/avc1/1052x720/DGPvxSFOJRdnpKlP.mp4?tag=12"
+					}
+				],
+				"cardPreview": null
+			}
+		}
+	},
+	{
+		"id": "1789107043825262706",
+		"heading": "Tech Breakthroughs",
+		"subheading": "Universal Basic Compute Proposal",
+		"content": "Sam Altman says instead of Universal Basic Income, there should be Universal Basic Compute, where everybody gets a slice of GPT-7's compute",
+		"link": "https://twitter.com/tsarnick/status/1789107043825262706",
+		"tweet": {
+			"success": true,
+			"tweet": {
+				"all": {
+					"__typename": "Tweet",
+					"lang": "en",
+					"favorite_count": 1374,
+					"possibly_sensitive": false,
+					"created_at": "2024-05-11T01:35:33.000Z",
+					"display_text_range": [0, 139],
+					"entities": {
+						"hashtags": [],
+						"urls": [],
+						"user_mentions": [],
+						"symbols": [],
+						"media": [
+							{
+								"display_url": "pic.x.com/eojzpcmmpv",
+								"expanded_url": "https://twitter.com/tsarnick/status/1789107043825262706/video/1",
+								"indices": [140, 163],
+								"url": "https://t.co/eojzPCmmPV"
+							}
+						]
+					},
+					"id_str": "1789107043825262706",
+					"text": "Sam Altman says instead of Universal Basic Income, there should be Universal Basic Compute, where everybody gets a slice of GPT-7's compute https://t.co/eojzPCmmPV",
+					"user": {
+						"id_str": "203458226",
+						"name": "Tsarathustra",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1690941803200208896/PRpYEDXP_normal.jpg",
+						"screen_name": "tsarnick",
+						"verified": false,
+						"is_blue_verified": true,
+						"profile_image_shape": "Circle"
+					},
+					"edit_control": {
+						"edit_tweet_ids": ["1789107043825262706"],
+						"editable_until_msecs": "1715394933000",
+						"is_edit_eligible": false,
+						"edits_remaining": "5"
+					},
+					"mediaDetails": [
+						{
+							"additional_media_info": {},
+							"display_url": "pic.twitter.com/eojzPCmmPV",
+							"expanded_url": "https://twitter.com/tsarnick/status/1789107043825262706/video/1",
+							"ext_media_availability": {"status": "Available"},
+							"indices": [140, 163],
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1789106883581894656/pu/img/pI14Bgj01765BtLA.jpg",
+							"original_info": {"height": 720, "width": 720, "focus_rects": []},
+							"sizes": {
+								"large": {"h": 720, "resize": "fit", "w": 720},
+								"medium": {"h": 720, "resize": "fit", "w": 720},
+								"small": {"h": 680, "resize": "fit", "w": 680},
+								"thumb": {"h": 150, "resize": "crop", "w": 150}
+							},
+							"type": "video",
+							"url": "https://t.co/eojzPCmmPV",
+							"video_info": {
+								"aspect_ratio": [1, 1],
+								"duration_millis": 34603,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&container=cmaf"
+									},
+									{
+										"bitrate": 432000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/320x320/P54w6ach5ZtghSLo.mp4?tag=12"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/540x540/ytsB6us09yn_VdE6.mp4?tag=12"
+									},
+									{
+										"bitrate": 1280000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/720x720/TFOUBMQbw-DsjajP.mp4?tag=12"
+									}
+								]
+							}
+						}
+					],
+					"photos": [],
+					"video": {
+						"aspectRatio": [1, 1],
+						"contentType": "media_entity",
+						"durationMs": 34603,
+						"mediaAvailability": {"status": "available"},
+						"poster": "https://pbs.twimg.com/ext_tw_video_thumb/1789106883581894656/pu/img/pI14Bgj01765BtLA.jpg",
+						"variants": [
+							{
+								"type": "application/x-mpegURL",
+								"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&container=cmaf"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/320x320/P54w6ach5ZtghSLo.mp4?tag=12"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/540x540/ytsB6us09yn_VdE6.mp4?tag=12"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/720x720/TFOUBMQbw-DsjajP.mp4?tag=12"
+							}
+						],
+						"videoId": {"type": "tweet", "id": "1789107043825262706"},
+						"viewCount": 0
+					},
+					"conversation_count": 722,
+					"news_action_type": "conversation",
+					"isEdited": false,
+					"isStaleEdit": false,
+					"note_tweet": {
+						"id": "Tm90ZVR3ZWV0UmVzdWx0czoxNzg5MTA3MDQzNzYyMzA3MDcy"
+					}
+				},
+				"text": "Sam Altman says instead of Universal Basic Income, there should be Universal Basic Compute, where everybody gets a slice of GPT-7's compute",
+				"likes": 1374,
+				"replies": 722,
+				"createdAt": "1:35 AM · 11 May 2024",
+				"avatar": "https://pbs.twimg.com/profile_images/1690941803200208896/PRpYEDXP_400x400.jpg",
+				"name": "Tsarathustra",
+				"username": "tsarnick",
+				"verified": false,
+				"isBlueVerified": true,
+				"images": [
+					"https://pbs.twimg.com/ext_tw_video_thumb/1789106883581894656/pu/img/pI14Bgj01765BtLA.jpg"
+				],
+				"video": [
+					{
+						"type": "application/x-mpegURL",
+						"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&container=cmaf"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/320x320/P54w6ach5ZtghSLo.mp4?tag=12"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/540x540/ytsB6us09yn_VdE6.mp4?tag=12"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/vid/avc1/720x720/TFOUBMQbw-DsjajP.mp4?tag=12"
+					}
+				],
+				"cardPreview": null
+			}
+		}
+	},
+	{
+		"id": "1788987793613725786",
+		"heading": "Tech Breakthroughs",
+		"subheading": "OpenAI Live Stream",
+		"content": "We’ll be streaming live on http://openai.com at 10AM PT Monday, May 13 to demo some ChatGPT and GPT-4 updates.",
+		"link": "https://twitter.com/OpenAI/status/1788987793613725786",
+		"tweet": {
+			"success": true,
+			"tweet": {
+				"all": {
+					"__typename": "Tweet",
+					"lang": "en",
+					"favorite_count": 9280,
+					"possibly_sensitive": false,
+					"created_at": "2024-05-10T17:41:42.000Z",
+					"display_text_range": [0, 116],
+					"entities": {
+						"hashtags": [],
+						"urls": [
+							{
+								"display_url": "openai.com",
+								"expanded_url": "http://openai.com",
+								"indices": [27, 50],
+								"url": "https://t.co/OcO6MLUYGH"
+							}
+						],
+						"user_mentions": [],
+						"symbols": []
+					},
+					"id_str": "1788987793613725786",
+					"text": "We’ll be streaming live on https://t.co/OcO6MLUYGH at 10AM PT Monday, May 13 to demo some ChatGPT and GPT-4 updates.",
+					"user": {
+						"id_str": "4398626122",
+						"name": "OpenAI",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_normal.jpg",
+						"screen_name": "OpenAI",
+						"verified": false,
+						"verified_type": "Business",
+						"is_blue_verified": true,
+						"profile_image_shape": "Square"
+					},
+					"edit_control": {
+						"edit_tweet_ids": ["1788987793613725786"],
+						"editable_until_msecs": "1715366502000",
+						"is_edit_eligible": true,
+						"edits_remaining": "5"
+					},
+					"conversation_count": 459,
+					"news_action_type": "conversation",
+					"card": {
+						"card_platform": {
+							"platform": {
+								"audience": {"name": "production"},
+								"device": {"name": "iPhone", "version": "13"}
+							}
+						},
+						"name": "summary_large_image",
+						"url": "https://t.co/OcO6MLUYGH",
+						"binding_values": {
+							"photo_image_full_size_large": {
+								"image_value": {
+									"height": 419,
+									"width": 800,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+								},
+								"type": "IMAGE"
+							},
+							"thumbnail_image": {
+								"image_value": {
+									"height": 150,
+									"width": 267,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=280x150"
+								},
+								"type": "IMAGE"
+							},
+							"description": {
+								"string_value": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+								"type": "STRING"
+							},
+							"domain": {"string_value": "openai.com", "type": "STRING"},
+							"thumbnail_image_large": {
+								"image_value": {
+									"height": 320,
+									"width": 569,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x320_1"
+								},
+								"type": "IMAGE"
+							},
+							"summary_photo_image_small": {
+								"image_value": {
+									"height": 202,
+									"width": 386,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+								},
+								"type": "IMAGE"
+							},
+							"thumbnail_image_original": {
+								"image_value": {
+									"height": 900,
+									"width": 1600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+								},
+								"type": "IMAGE"
+							},
+							"site": {
+								"scribe_key": "publisher_id",
+								"type": "USER",
+								"user_value": {"id_str": "4398626122", "path": []}
+							},
+							"photo_image_full_size_small": {
+								"image_value": {
+									"height": 202,
+									"width": 386,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+								},
+								"type": "IMAGE"
+							},
+							"summary_photo_image_large": {
+								"image_value": {
+									"height": 419,
+									"width": 800,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+								},
+								"type": "IMAGE"
+							},
+							"thumbnail_image_small": {
+								"image_value": {
+									"height": 81,
+									"width": 144,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=144x144"
+								},
+								"type": "IMAGE"
+							},
+							"thumbnail_image_x_large": {
+								"image_value": {
+									"height": 900,
+									"width": 1600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+								},
+								"type": "IMAGE"
+							},
+							"photo_image_full_size_original": {
+								"image_value": {
+									"height": 900,
+									"width": 1600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+								},
+								"type": "IMAGE"
+							},
+							"photo_image_full_size_alt_text": {
+								"string_value": "Abstract art featuring a striking contrast of teal and pink brushstrokes on an orange canvas, overlaid with the white OpenAI logo.",
+								"type": "STRING"
+							},
+							"vanity_url": {
+								"scribe_key": "vanity_url",
+								"string_value": "openai.com",
+								"type": "STRING"
+							},
+							"photo_image_full_size": {
+								"image_value": {
+									"height": 314,
+									"width": 600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+								},
+								"type": "IMAGE"
+							},
+							"summary_photo_image_alt_text": {
+								"string_value": "Abstract art featuring a striking contrast of teal and pink brushstrokes on an orange canvas, overlaid with the white OpenAI logo.",
+								"type": "STRING"
+							},
+							"thumbnail_image_color": {
+								"image_color_value": {
+									"palette": [
+										{
+											"rgb": {"blue": 114, "green": 118, "red": 232},
+											"percentage": 49.78
+										},
+										{
+											"rgb": {"blue": 208, "green": 157, "red": 235},
+											"percentage": 18.78
+										},
+										{
+											"rgb": {"blue": 155, "green": 143, "red": 228},
+											"percentage": 12.52
+										},
+										{
+											"rgb": {"blue": 231, "green": 188, "red": 214},
+											"percentage": 7.41
+										},
+										{
+											"rgb": {"blue": 201, "green": 189, "red": 100},
+											"percentage": 2.97
+										}
+									]
+								},
+								"type": "IMAGE_COLOR"
+							},
+							"title": {"string_value": "OpenAI", "type": "STRING"},
+							"summary_photo_image_color": {
+								"image_color_value": {
+									"palette": [
+										{
+											"rgb": {"blue": 114, "green": 118, "red": 232},
+											"percentage": 49.78
+										},
+										{
+											"rgb": {"blue": 208, "green": 157, "red": 235},
+											"percentage": 18.78
+										},
+										{
+											"rgb": {"blue": 155, "green": 143, "red": 228},
+											"percentage": 12.52
+										},
+										{
+											"rgb": {"blue": 231, "green": 188, "red": 214},
+											"percentage": 7.41
+										},
+										{
+											"rgb": {"blue": 201, "green": 189, "red": 100},
+											"percentage": 2.97
+										}
+									]
+								},
+								"type": "IMAGE_COLOR"
+							},
+							"summary_photo_image_x_large": {
+								"image_value": {
+									"height": 900,
+									"width": 1600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+								},
+								"type": "IMAGE"
+							},
+							"summary_photo_image": {
+								"image_value": {
+									"height": 314,
+									"width": 600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+								},
+								"type": "IMAGE"
+							},
+							"photo_image_full_size_color": {
+								"image_color_value": {
+									"palette": [
+										{
+											"rgb": {"blue": 114, "green": 118, "red": 232},
+											"percentage": 49.78
+										},
+										{
+											"rgb": {"blue": 208, "green": 157, "red": 235},
+											"percentage": 18.78
+										},
+										{
+											"rgb": {"blue": 155, "green": 143, "red": 228},
+											"percentage": 12.52
+										},
+										{
+											"rgb": {"blue": 231, "green": 188, "red": 214},
+											"percentage": 7.41
+										},
+										{
+											"rgb": {"blue": 201, "green": 189, "red": 100},
+											"percentage": 2.97
+										}
+									]
+								},
+								"type": "IMAGE_COLOR"
+							},
+							"photo_image_full_size_x_large": {
+								"image_value": {
+									"height": 900,
+									"width": 1600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+								},
+								"type": "IMAGE"
+							},
+							"card_url": {
+								"scribe_key": "card_url",
+								"string_value": "https://t.co/OcO6MLUYGH",
+								"type": "STRING"
+							},
+							"summary_photo_image_original": {
+								"image_value": {
+									"height": 900,
+									"width": 1600,
+									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+								},
+								"type": "IMAGE"
+							}
+						}
+					},
+					"isEdited": false,
+					"isStaleEdit": false
+				},
+				"text": "We’ll be streaming live on <span class='tweet_link' style=\"color: #2DA0F1\"></span> at 10AM PT Monday, May 13 to demo some ChatGPT and GPT-4 updates.",
+				"likes": 9280,
+				"replies": 459,
+				"createdAt": "5:41 PM · 10 May 2024",
+				"avatar": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg",
+				"name": "OpenAI",
+				"username": "OpenAI",
+				"verified": false,
+				"isBlueVerified": true,
+				"images": [],
+				"cardPreview": {
+					"card_platform": {
+						"platform": {
+							"audience": {"name": "production"},
+							"device": {"name": "iPhone", "version": "13"}
+						}
+					},
+					"name": "summary_large_image",
+					"url": "openai.com",
+					"binding_values": {
+						"photo_image_full_size_large": {
+							"image_value": {
+								"height": 419,
+								"width": 800,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+							},
+							"type": "IMAGE"
+						},
+						"thumbnail_image": {
+							"image_value": {
+								"height": 150,
+								"width": 267,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=280x150"
+							},
+							"type": "IMAGE"
+						},
+						"description": {
+							"string_value": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+							"type": "STRING"
+						},
+						"domain": {"string_value": "openai.com", "type": "STRING"},
+						"thumbnail_image_large": {
+							"image_value": {
+								"height": 320,
+								"width": 569,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x320_1"
+							},
+							"type": "IMAGE"
+						},
+						"summary_photo_image_small": {
+							"image_value": {
+								"height": 202,
+								"width": 386,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+							},
+							"type": "IMAGE"
+						},
+						"thumbnail_image_original": {
+							"image_value": {
+								"height": 900,
+								"width": 1600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+							},
+							"type": "IMAGE"
+						},
+						"site": {
+							"scribe_key": "publisher_id",
+							"type": "USER",
+							"user_value": {"id_str": "4398626122", "path": []}
+						},
+						"photo_image_full_size_small": {
+							"image_value": {
+								"height": 202,
+								"width": 386,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+							},
+							"type": "IMAGE"
+						},
+						"summary_photo_image_large": {
+							"image_value": {
+								"height": 419,
+								"width": 800,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+							},
+							"type": "IMAGE"
+						},
+						"thumbnail_image_small": {
+							"image_value": {
+								"height": 81,
+								"width": 144,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=144x144"
+							},
+							"type": "IMAGE"
+						},
+						"thumbnail_image_x_large": {
+							"image_value": {
+								"height": 900,
+								"width": 1600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+							},
+							"type": "IMAGE"
+						},
+						"photo_image_full_size_original": {
+							"image_value": {
+								"height": 900,
+								"width": 1600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+							},
+							"type": "IMAGE"
+						},
+						"photo_image_full_size_alt_text": {
+							"string_value": "Abstract art featuring a striking contrast of teal and pink brushstrokes on an orange canvas, overlaid with the white OpenAI logo.",
+							"type": "STRING"
+						},
+						"vanity_url": {
+							"scribe_key": "vanity_url",
+							"string_value": "openai.com",
+							"type": "STRING"
+						},
+						"photo_image_full_size": {
+							"image_value": {
+								"height": 314,
+								"width": 600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+							},
+							"type": "IMAGE"
+						},
+						"summary_photo_image_alt_text": {
+							"string_value": "Abstract art featuring a striking contrast of teal and pink brushstrokes on an orange canvas, overlaid with the white OpenAI logo.",
+							"type": "STRING"
+						},
+						"thumbnail_image_color": {
+							"image_color_value": {
+								"palette": [
+									{
+										"rgb": {"blue": 114, "green": 118, "red": 232},
+										"percentage": 49.78
+									},
+									{
+										"rgb": {"blue": 208, "green": 157, "red": 235},
+										"percentage": 18.78
+									},
+									{
+										"rgb": {"blue": 155, "green": 143, "red": 228},
+										"percentage": 12.52
+									},
+									{
+										"rgb": {"blue": 231, "green": 188, "red": 214},
+										"percentage": 7.41
+									},
+									{
+										"rgb": {"blue": 201, "green": 189, "red": 100},
+										"percentage": 2.97
+									}
+								]
+							},
+							"type": "IMAGE_COLOR"
+						},
+						"title": {"string_value": "OpenAI", "type": "STRING"},
+						"summary_photo_image_color": {
+							"image_color_value": {
+								"palette": [
+									{
+										"rgb": {"blue": 114, "green": 118, "red": 232},
+										"percentage": 49.78
+									},
+									{
+										"rgb": {"blue": 208, "green": 157, "red": 235},
+										"percentage": 18.78
+									},
+									{
+										"rgb": {"blue": 155, "green": 143, "red": 228},
+										"percentage": 12.52
+									},
+									{
+										"rgb": {"blue": 231, "green": 188, "red": 214},
+										"percentage": 7.41
+									},
+									{
+										"rgb": {"blue": 201, "green": 189, "red": 100},
+										"percentage": 2.97
+									}
+								]
+							},
+							"type": "IMAGE_COLOR"
+						},
+						"summary_photo_image_x_large": {
+							"image_value": {
+								"height": 900,
+								"width": 1600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+							},
+							"type": "IMAGE"
+						},
+						"summary_photo_image": {
+							"image_value": {
+								"height": 314,
+								"width": 600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+							},
+							"type": "IMAGE"
+						},
+						"photo_image_full_size_color": {
+							"image_color_value": {
+								"palette": [
+									{
+										"rgb": {"blue": 114, "green": 118, "red": 232},
+										"percentage": 49.78
+									},
+									{
+										"rgb": {"blue": 208, "green": 157, "red": 235},
+										"percentage": 18.78
+									},
+									{
+										"rgb": {"blue": 155, "green": 143, "red": 228},
+										"percentage": 12.52
+									},
+									{
+										"rgb": {"blue": 231, "green": 188, "red": 214},
+										"percentage": 7.41
+									},
+									{
+										"rgb": {"blue": 201, "green": 189, "red": 100},
+										"percentage": 2.97
+									}
+								]
+							},
+							"type": "IMAGE_COLOR"
+						},
+						"photo_image_full_size_x_large": {
+							"image_value": {
+								"height": 900,
+								"width": 1600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+							},
+							"type": "IMAGE"
+						},
+						"card_url": {
+							"scribe_key": "card_url",
+							"string_value": "https://t.co/OcO6MLUYGH",
+							"type": "STRING"
+						},
+						"summary_photo_image_original": {
+							"image_value": {
+								"height": 900,
+								"width": 1600,
+								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+							},
+							"type": "IMAGE"
+						}
+					},
+					"type": "summary_large_image",
+					"title": "OpenAI",
+					"description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+					"image": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+				}
+			}
+		}
+	},
+	{
+		"id": "1789137868381642969",
+		"heading": "Natural Wonders",
+		"subheading": "Aurora Across USA",
+		"content": "The Aurora borealis is being seen across the United States!Go outside and see if you can catch a glimpse!",
+		"link": "https://twitter.com/BigImpactHumans/status/1789137868381642969",
+		"tweet": {
+			"success": true,
+			"tweet": {
+				"all": {
+					"__typename": "Tweet",
+					"lang": "en",
+					"favorite_count": 44775,
+					"possibly_sensitive": false,
+					"created_at": "2024-05-11T03:38:03.000Z",
+					"display_text_range": [0, 108],
+					"entities": {
+						"hashtags": [],
+						"urls": [],
+						"user_mentions": [],
+						"symbols": [],
+						"media": [
+							{
+								"display_url": "pic.x.com/vs9ol9poqp",
+								"expanded_url": "https://twitter.com/BigImpactHumans/status/1789137868381642969/video/1",
+								"indices": [109, 132],
+								"url": "https://t.co/vS9oL9pOqp"
+							}
+						]
+					},
+					"id_str": "1789137868381642969",
+					"text": "The Aurora borealis is being seen across the United States! \n\nGo outside and see if you can catch a glimpse! https://t.co/vS9oL9pOqp",
+					"user": {
+						"id_str": "2961936246",
+						"name": "LilHumansBigImpact",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1781855923520106496/Bhf-BLIL_normal.jpg",
+						"screen_name": "BigImpactHumans",
+						"verified": false,
+						"is_blue_verified": true,
+						"profile_image_shape": "Circle"
+					},
+					"edit_control": {
+						"edit_tweet_ids": ["1789137868381642969"],
+						"editable_until_msecs": "1715402283000",
+						"is_edit_eligible": true,
+						"edits_remaining": "5"
+					},
+					"mediaDetails": [
+						{
+							"additional_media_info": {},
+							"display_url": "pic.twitter.com/vS9oL9pOqp",
+							"expanded_url": "https://twitter.com/BigImpactHumans/status/1789137868381642969/video/1",
+							"ext_media_availability": {"status": "Available"},
+							"indices": [109, 132],
+							"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1789137792489906176/img/W0QGkxxCFn88EvhE.jpg",
+							"original_info": {
+								"height": 1920,
+								"width": 1080,
+								"focus_rects": []
+							},
+							"sizes": {
+								"large": {"h": 1920, "resize": "fit", "w": 1080},
+								"medium": {"h": 1200, "resize": "fit", "w": 675},
+								"small": {"h": 680, "resize": "fit", "w": 383},
+								"thumb": {"h": 150, "resize": "crop", "w": 150}
+							},
+							"type": "video",
+							"url": "https://t.co/vS9oL9pOqp",
+							"video_info": {
+								"aspect_ratio": [9, 16],
+								"duration_millis": 18291,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14&container=cmaf"
+									},
+									{
+										"bitrate": 632000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/320x568/pWtH4k5ab_T6ZWCj.mp4?tag=14"
+									},
+									{
+										"bitrate": 950000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/480x852/9cu4OiMcCL1xOv_Z.mp4?tag=14"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/720x1280/vDEftfvkA6ziOhpz.mp4?tag=14"
+									}
+								]
+							}
+						}
+					],
+					"photos": [],
+					"video": {
+						"aspectRatio": [9, 16],
+						"contentType": "media_entity",
+						"durationMs": 18291,
+						"mediaAvailability": {"status": "available"},
+						"poster": "https://pbs.twimg.com/amplify_video_thumb/1789137792489906176/img/W0QGkxxCFn88EvhE.jpg",
+						"variants": [
+							{
+								"type": "application/x-mpegURL",
+								"src": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14&container=cmaf"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/320x568/pWtH4k5ab_T6ZWCj.mp4?tag=14"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/480x852/9cu4OiMcCL1xOv_Z.mp4?tag=14"
+							},
+							{
+								"type": "video/mp4",
+								"src": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/720x1280/vDEftfvkA6ziOhpz.mp4?tag=14"
+							}
+						],
+						"videoId": {"type": "tweet", "id": "1789137868381642969"},
+						"viewCount": 0
+					},
+					"conversation_count": 255,
+					"news_action_type": "conversation",
+					"isEdited": false,
+					"isStaleEdit": false
+				},
+				"text": "The Aurora borealis is being seen across the United States! <br/><br/>Go outside and see if you can catch a glimpse!",
+				"likes": 44775,
+				"replies": 255,
+				"createdAt": "3:38 AM · 11 May 2024",
+				"avatar": "https://pbs.twimg.com/profile_images/1781855923520106496/Bhf-BLIL_400x400.jpg",
+				"name": "LilHumansBigImpact",
+				"username": "BigImpactHumans",
+				"verified": false,
+				"isBlueVerified": true,
+				"images": [
+					"https://pbs.twimg.com/amplify_video_thumb/1789137792489906176/img/W0QGkxxCFn88EvhE.jpg"
+				],
+				"video": [
+					{
+						"type": "application/x-mpegURL",
+						"src": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14&container=cmaf"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/320x568/pWtH4k5ab_T6ZWCj.mp4?tag=14"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/480x852/9cu4OiMcCL1xOv_Z.mp4?tag=14"
+					},
+					{
+						"type": "video/mp4",
+						"src": "https://video.twimg.com/amplify_video/1789137792489906176/vid/avc1/720x1280/vDEftfvkA6ziOhpz.mp4?tag=14"
+					}
+				],
+				"cardPreview": null
+			}
+		}
+	},
+	{
+		"id": "1789037714660290789",
+		"heading": "Web Design",
+		"subheading": "Man Midjourney's UI",
+		"content": "Man Midjourney has absolutely NAILED their web UI 🔥So much better than Discord.",
+		"link": "https://twitter.com/TylerNickerson/status/1789037714660290789",
+		"tweet": {
+			"success": true,
+			"tweet": {
+				"all": {
+					"__typename": "Tweet",
+					"lang": "en",
+					"favorite_count": 173,
+					"possibly_sensitive": false,
+					"created_at": "2024-05-10T21:00:04.000Z",
+					"display_text_range": [0, 82],
+					"entities": {
+						"hashtags": [],
+						"urls": [],
+						"user_mentions": [],
+						"symbols": [],
+						"media": [
+							{
+								"display_url": "pic.x.com/vq7arkztop",
+								"expanded_url": "https://twitter.com/TylerNickerson/status/1789037714660290789/photo/1",
+								"indices": [82, 105],
+								"url": "https://t.co/VQ7aRkZTOP"
+							}
+						]
+					},
+					"id_str": "1789037714660290789",
+					"text": "Man Midjourney has absolutely NAILED their web UI 🔥\n\nSo much better than Discord. https://t.co/VQ7aRkZTOP",
+					"user": {
+						"id_str": "241527338",
+						"name": "Tyler @ Kojo Design",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1677460809067409408/ZLAFqbRf_normal.jpg",
+						"screen_name": "TylerNickerson",
+						"verified": false,
+						"is_blue_verified": true,
+						"profile_image_shape": "Circle"
+					},
+					"edit_control": {
+						"edit_tweet_ids": ["1789037714660290789"],
+						"editable_until_msecs": "1715378404000",
+						"is_edit_eligible": true,
+						"edits_remaining": "5"
+					},
+					"mediaDetails": [
+						{
+							"display_url": "pic.twitter.com/VQ7aRkZTOP",
+							"expanded_url": "https://twitter.com/TylerNickerson/status/1789037714660290789/photo/1",
+							"ext_media_availability": {"status": "Available"},
+							"indices": [82, 105],
+							"media_url_https": "https://pbs.twimg.com/media/GNPwUKfbcAEN2KE.jpg",
+							"original_info": {
+								"height": 1772,
+								"width": 2896,
+								"focus_rects": [
+									{"x": 0, "y": 150, "w": 2896, "h": 1622},
+									{"x": 632, "y": 0, "w": 1772, "h": 1772},
+									{"x": 741, "y": 0, "w": 1554, "h": 1772},
+									{"x": 1075, "y": 0, "w": 886, "h": 1772},
+									{"x": 0, "y": 0, "w": 2896, "h": 1772}
+								]
+							},
+							"sizes": {
+								"large": {"h": 1253, "resize": "fit", "w": 2048},
+								"medium": {"h": 734, "resize": "fit", "w": 1200},
+								"small": {"h": 416, "resize": "fit", "w": 680},
+								"thumb": {"h": 150, "resize": "crop", "w": 150}
+							},
+							"type": "photo",
+							"url": "https://t.co/VQ7aRkZTOP"
+						}
+					],
+					"photos": [
+						{
+							"backgroundColor": {"red": 204, "green": 214, "blue": 221},
+							"cropCandidates": [
+								{"x": 0, "y": 150, "w": 2896, "h": 1622},
+								{"x": 632, "y": 0, "w": 1772, "h": 1772},
+								{"x": 741, "y": 0, "w": 1554, "h": 1772},
+								{"x": 1075, "y": 0, "w": 886, "h": 1772},
+								{"x": 0, "y": 0, "w": 2896, "h": 1772}
+							],
+							"expandedUrl": "https://twitter.com/TylerNickerson/status/1789037714660290789/photo/1",
+							"url": "https://pbs.twimg.com/media/GNPwUKfbcAEN2KE.jpg",
+							"width": 2896,
+							"height": 1772
+						}
+					],
+					"conversation_count": 18,
+					"news_action_type": "conversation",
+					"isEdited": false,
+					"isStaleEdit": false
+				},
+				"text": "Man Midjourney has absolutely NAILED their web UI 🔥<br/><br/>So much better than Discord.",
+				"likes": 173,
+				"replies": 18,
+				"createdAt": "9:00 PM · 10 May 2024",
+				"avatar": "https://pbs.twimg.com/profile_images/1677460809067409408/ZLAFqbRf_400x400.jpg",
+				"name": "Tyler @ Kojo Design",
+				"username": "TylerNickerson",
+				"verified": false,
+				"isBlueVerified": true,
+				"images": ["https://pbs.twimg.com/media/GNPwUKfbcAEN2KE.jpg"],
+				"cardPreview": null
+			}
+		}
+	},
+	{
+		"id": "1788803209441546533",
+		"heading": "Corporate Apologies",
+		"subheading": "Apple's 'Crush' Ad Regret",
+		"content": "Apple appologizes for iPad 'Crush' ad that 'missed the mark'.The Company says 'We're sorry' after its ad was seen as dismissive by the creatives",
+		"link": "https://twitter.com/FrancescoCiull4/status/1788803209441546533",
+		"tweet": {
+			"success": true,
+			"tweet": {
+				"all": {
+					"__typename": "Tweet",
+					"lang": "en",
+					"favorite_count": 20,
+					"possibly_sensitive": false,
+					"created_at": "2024-05-10T05:28:14.000Z",
+					"display_text_range": [0, 49],
+					"entities": {
+						"hashtags": [],
+						"urls": [],
+						"user_mentions": [],
+						"symbols": [],
+						"media": [
+							{
+								"display_url": "pic.x.com/iz9l8ybmzs",
+								"expanded_url": "https://twitter.com/FrancescoCiull4/status/1788803209441546533/photo/1",
+								"indices": [47, 70],
+								"url": "https://t.co/iZ9l8ybmZs"
+							}
+						]
+					},
+					"id_str": "1788803209441546533",
+					"text": "Well, it seems that Apple CRUSHED the week 🔥🔥🔥 https://t.co/iZ9l8ybmZs",
+					"user": {
+						"id_str": "1704118916",
+						"name": "Francesco",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1617044903636123650/pYUcGGOu_normal.jpg",
+						"screen_name": "FrancescoCiull4",
+						"verified": false,
+						"is_blue_verified": true,
+						"profile_image_shape": "Circle"
+					},
+					"edit_control": {
+						"edit_tweet_ids": ["1788803209441546533"],
+						"editable_until_msecs": "1715322494000",
+						"is_edit_eligible": true,
+						"edits_remaining": "5"
+					},
+					"mediaDetails": [
+						{
+							"display_url": "pic.twitter.com/iZ9l8ybmZs",
+							"expanded_url": "https://twitter.com/FrancescoCiull4/status/1788803209441546533/photo/1",
+							"ext_media_availability": {"status": "Available"},
+							"indices": [47, 70],
+							"media_url_https": "https://pbs.twimg.com/media/GNMa5fPWkAASTQD.jpg",
+							"original_info": {
+								"height": 1216,
+								"width": 2276,
+								"focus_rects": [
+									{"x": 0, "y": 0, "w": 2171, "h": 1216},
+									{"x": 17, "y": 0, "w": 1216, "h": 1216},
+									{"x": 92, "y": 0, "w": 1067, "h": 1216},
+									{"x": 321, "y": 0, "w": 608, "h": 1216},
+									{"x": 0, "y": 0, "w": 2276, "h": 1216}
+								]
+							},
+							"sizes": {
+								"large": {"h": 1094, "resize": "fit", "w": 2048},
+								"medium": {"h": 641, "resize": "fit", "w": 1200},
+								"small": {"h": 363, "resize": "fit", "w": 680},
+								"thumb": {"h": 150, "resize": "crop", "w": 150}
+							},
+							"type": "photo",
+							"url": "https://t.co/iZ9l8ybmZs"
+						}
+					],
+					"photos": [
+						{
+							"backgroundColor": {"red": 204, "green": 214, "blue": 221},
+							"cropCandidates": [
+								{"x": 0, "y": 0, "w": 2171, "h": 1216},
+								{"x": 17, "y": 0, "w": 1216, "h": 1216},
+								{"x": 92, "y": 0, "w": 1067, "h": 1216},
+								{"x": 321, "y": 0, "w": 608, "h": 1216},
+								{"x": 0, "y": 0, "w": 2276, "h": 1216}
+							],
+							"expandedUrl": "https://twitter.com/FrancescoCiull4/status/1788803209441546533/photo/1",
+							"url": "https://pbs.twimg.com/media/GNMa5fPWkAASTQD.jpg",
+							"width": 2276,
+							"height": 1216
+						}
+					],
+					"conversation_count": 0,
+					"news_action_type": "conversation",
+					"isEdited": false,
+					"isStaleEdit": false
+				},
+				"text": "Well, it seems that Apple CRUSHED the week 🔥🔥🔥",
+				"likes": 20,
+				"replies": 0,
+				"createdAt": "5:28 AM · 10 May 2024",
+				"avatar": "https://pbs.twimg.com/profile_images/1617044903636123650/pYUcGGOu_400x400.jpg",
+				"name": "Francesco",
+				"username": "FrancescoCiull4",
+				"verified": false,
+				"isBlueVerified": true,
+				"images": ["https://pbs.twimg.com/media/GNMa5fPWkAASTQD.jpg"],
+				"cardPreview": null
+			}
+		}
+	}
+]
