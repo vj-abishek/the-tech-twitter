@@ -38,6 +38,15 @@ export default function Content({ data }) {
       .catch((error) => console.error("Error loading audio files:", error));
   }, [data, fps, getDurationInFrame]);
 
+  useEffect(() => {
+    for (let i = 0; i < durations.length; i++) {
+      if (frame >= durations[i].from && frame <= durations[i].from + durations[i].duration + INTRO_DURATION) {
+        setCurrentActiveTopic(i);
+        break;
+      }
+    }
+  }, [frame, durations])
+
   return (
     <Sequence from={INTRO_DURATION} className="flex flex-col shrink-0">
       <div className="w-[1720px] flex mt-10 justify-between ml-20 mr-20 text-3xl">
@@ -50,7 +59,7 @@ export default function Content({ data }) {
             {data.map((tweet: any, index: number) => {
               const canShowHeader = lastHeadingRef.current !== tweet.heading;
               lastHeadingRef.current = tweet.heading;
-              return <Sidebar key={index} data={tweet} canShowHeader={canShowHeader} />;
+              return <Sidebar key={index} data={tweet} canShowHeader={canShowHeader} active={currentActiveTopic === index} />;
             })}
           </div>
 
