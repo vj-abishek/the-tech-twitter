@@ -1,19 +1,9 @@
 /* eslint-disable react/no-danger */
 import {Audio} from 'remotion'
 import { Img, Video, interpolate, random, staticFile, useCurrentFrame } from "remotion"
+import { getSrc } from '../helpers'
 
 export const Tweet = ({ data, index }) => {
-  const getSrc = (urls: { src: string }[]) => {
-    const sizes = ['1280x', '720x', '480x', 'x720', 'x480', 'x360'];
-
-    for (const size of sizes) {
-      const url = urls.find((d) => d.src.includes(size));
-      if (url) {
-        return url.src;
-      }
-    }
-  }
-
   return (
     <div className="w-[1230px] m-10 mt-0 mb-0 bg-white border-[#eff3f4] p-6 pb-0 rounded-[40px]">
       <div className="flex flex-row items-center justify-between">

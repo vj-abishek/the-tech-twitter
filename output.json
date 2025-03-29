@@ -11,7 +11,7 @@
 				"all": {
 					"__typename": "Tweet",
 					"lang": "en",
-					"favorite_count": 714,
+					"favorite_count": 745,
 					"possibly_sensitive": false,
 					"created_at": "2024-05-11T00:40:21.000Z",
 					"display_text_range": [0, 27],
@@ -49,7 +49,7 @@
 					"mediaDetails": [
 						{
 							"additional_media_info": {},
-							"display_url": "pic.twitter.com/W84f7fkzdb",
+							"display_url": "pic.x.com/w84f7fkzdb",
 							"expanded_url": "https://twitter.com/hieudinh_/status/1789093149509304731/video/1",
 							"ext_media_availability": {"status": "Available"},
 							"indices": [27, 50],
@@ -73,7 +73,7 @@
 								"variants": [
 									{
 										"content_type": "application/x-mpegURL",
-										"url": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12&container=cmaf"
+										"url": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12"
 									},
 									{
 										"bitrate": 256000,
@@ -104,7 +104,7 @@
 						"variants": [
 							{
 								"type": "application/x-mpegURL",
-								"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12&container=cmaf"
+								"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12"
 							},
 							{
 								"type": "video/mp4",
@@ -128,7 +128,7 @@
 					"isStaleEdit": false
 				},
 				"text": "Finder is actually smart 🤯",
-				"likes": 714,
+				"likes": 745,
 				"replies": 33,
 				"createdAt": "12:40 AM · 11 May 2024",
 				"avatar": "https://pbs.twimg.com/profile_images/1750334158617088000/take9yvV_400x400.jpg",
@@ -142,7 +142,7 @@
 				"video": [
 					{
 						"type": "application/x-mpegURL",
-						"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12&container=cmaf"
+						"src": "https://video.twimg.com/ext_tw_video/1789093051920449536/pu/pl/qquB8A99EphWgu1s.m3u8?tag=12"
 					},
 					{
 						"type": "video/mp4",
@@ -159,7 +159,8 @@
 				],
 				"cardPreview": null
 			}
-		}
+		},
+		"settings": "--- play_full: true"
 	},
 	{
 		"id": "1789107043825262706",
@@ -173,7 +174,7 @@
 				"all": {
 					"__typename": "Tweet",
 					"lang": "en",
-					"favorite_count": 1374,
+					"favorite_count": 1599,
 					"possibly_sensitive": false,
 					"created_at": "2024-05-11T01:35:33.000Z",
 					"display_text_range": [0, 139],
@@ -211,7 +212,7 @@
 					"mediaDetails": [
 						{
 							"additional_media_info": {},
-							"display_url": "pic.twitter.com/eojzPCmmPV",
+							"display_url": "pic.x.com/eojzpcmmpv",
 							"expanded_url": "https://twitter.com/tsarnick/status/1789107043825262706/video/1",
 							"ext_media_availability": {"status": "Available"},
 							"indices": [140, 163],
@@ -231,7 +232,7 @@
 								"variants": [
 									{
 										"content_type": "application/x-mpegURL",
-										"url": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&container=cmaf"
+										"url": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&v=960"
 									},
 									{
 										"bitrate": 432000,
@@ -262,7 +263,7 @@
 						"variants": [
 							{
 								"type": "application/x-mpegURL",
-								"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&container=cmaf"
+								"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&v=960"
 							},
 							{
 								"type": "video/mp4",
@@ -280,7 +281,7 @@
 						"videoId": {"type": "tweet", "id": "1789107043825262706"},
 						"viewCount": 0
 					},
-					"conversation_count": 722,
+					"conversation_count": 876,
 					"news_action_type": "conversation",
 					"isEdited": false,
 					"isStaleEdit": false,
@@ -289,8 +290,8 @@
 					}
 				},
 				"text": "Sam Altman says instead of Universal Basic Income, there should be Universal Basic Compute, where everybody gets a slice of GPT-7's compute",
-				"likes": 1374,
-				"replies": 722,
+				"likes": 1599,
+				"replies": 876,
 				"createdAt": "1:35 AM · 11 May 2024",
 				"avatar": "https://pbs.twimg.com/profile_images/1690941803200208896/PRpYEDXP_400x400.jpg",
 				"name": "Tsarathustra",
@@ -303,7 +304,7 @@
 				"video": [
 					{
 						"type": "application/x-mpegURL",
-						"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&container=cmaf"
+						"src": "https://video.twimg.com/ext_tw_video/1789106883581894656/pu/pl/2K0AtlcSAkz9R043.m3u8?tag=12&v=960"
 					},
 					{
 						"type": "video/mp4",
@@ -320,7 +321,8 @@
 				],
 				"cardPreview": null
 			}
-		}
+		},
+		"settings": ""
 	},
 	{
 		"id": "1788987793613725786",
@@ -334,7 +336,7 @@
 				"all": {
 					"__typename": "Tweet",
 					"lang": "en",
-					"favorite_count": 9280,
+					"favorite_count": 10633,
 					"possibly_sensitive": false,
 					"created_at": "2024-05-10T17:41:42.000Z",
 					"display_text_range": [0, 116],
@@ -369,7 +371,7 @@
 						"is_edit_eligible": true,
 						"edits_remaining": "5"
 					},
-					"conversation_count": 459,
+					"conversation_count": 573,
 					"news_action_type": "conversation",
 					"card": {
 						"card_platform": {
@@ -385,7 +387,7 @@
 								"image_value": {
 									"height": 419,
 									"width": 800,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=800x419"
 								},
 								"type": "IMAGE"
 							},
@@ -393,7 +395,7 @@
 								"image_value": {
 									"height": 150,
 									"width": 267,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=280x150"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=280x150"
 								},
 								"type": "IMAGE"
 							},
@@ -406,7 +408,7 @@
 								"image_value": {
 									"height": 320,
 									"width": 569,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x320_1"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=800x320_1"
 								},
 								"type": "IMAGE"
 							},
@@ -414,7 +416,7 @@
 								"image_value": {
 									"height": 202,
 									"width": 386,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=386x202"
 								},
 								"type": "IMAGE"
 							},
@@ -422,7 +424,7 @@
 								"image_value": {
 									"height": 900,
 									"width": 1600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 								},
 								"type": "IMAGE"
 							},
@@ -435,7 +437,7 @@
 								"image_value": {
 									"height": 202,
 									"width": 386,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=386x202"
 								},
 								"type": "IMAGE"
 							},
@@ -443,7 +445,7 @@
 								"image_value": {
 									"height": 419,
 									"width": 800,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=800x419"
 								},
 								"type": "IMAGE"
 							},
@@ -451,7 +453,7 @@
 								"image_value": {
 									"height": 81,
 									"width": 144,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=144x144"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=144x144"
 								},
 								"type": "IMAGE"
 							},
@@ -459,7 +461,7 @@
 								"image_value": {
 									"height": 900,
 									"width": 1600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=png&name=2048x2048_2_exp"
 								},
 								"type": "IMAGE"
 							},
@@ -467,7 +469,7 @@
 								"image_value": {
 									"height": 900,
 									"width": 1600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 								},
 								"type": "IMAGE"
 							},
@@ -484,7 +486,7 @@
 								"image_value": {
 									"height": 314,
 									"width": 600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=600x314"
 								},
 								"type": "IMAGE"
 							},
@@ -551,7 +553,7 @@
 								"image_value": {
 									"height": 900,
 									"width": 1600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=png&name=2048x2048_2_exp"
 								},
 								"type": "IMAGE"
 							},
@@ -559,7 +561,7 @@
 								"image_value": {
 									"height": 314,
 									"width": 600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=600x314"
 								},
 								"type": "IMAGE"
 							},
@@ -594,7 +596,7 @@
 								"image_value": {
 									"height": 900,
 									"width": 1600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=png&name=2048x2048_2_exp"
 								},
 								"type": "IMAGE"
 							},
@@ -607,7 +609,7 @@
 								"image_value": {
 									"height": 900,
 									"width": 1600,
-									"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+									"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 								},
 								"type": "IMAGE"
 							}
@@ -617,8 +619,8 @@
 					"isStaleEdit": false
 				},
 				"text": "We’ll be streaming live on <span class='tweet_link' style=\"color: #2DA0F1\"></span> at 10AM PT Monday, May 13 to demo some ChatGPT and GPT-4 updates.",
-				"likes": 9280,
-				"replies": 459,
+				"likes": 10633,
+				"replies": 573,
 				"createdAt": "5:41 PM · 10 May 2024",
 				"avatar": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg",
 				"name": "OpenAI",
@@ -640,7 +642,7 @@
 							"image_value": {
 								"height": 419,
 								"width": 800,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=800x419"
 							},
 							"type": "IMAGE"
 						},
@@ -648,7 +650,7 @@
 							"image_value": {
 								"height": 150,
 								"width": 267,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=280x150"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=280x150"
 							},
 							"type": "IMAGE"
 						},
@@ -661,7 +663,7 @@
 							"image_value": {
 								"height": 320,
 								"width": 569,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x320_1"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=800x320_1"
 							},
 							"type": "IMAGE"
 						},
@@ -669,7 +671,7 @@
 							"image_value": {
 								"height": 202,
 								"width": 386,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=386x202"
 							},
 							"type": "IMAGE"
 						},
@@ -677,7 +679,7 @@
 							"image_value": {
 								"height": 900,
 								"width": 1600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 							},
 							"type": "IMAGE"
 						},
@@ -690,7 +692,7 @@
 							"image_value": {
 								"height": 202,
 								"width": 386,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=386x202"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=386x202"
 							},
 							"type": "IMAGE"
 						},
@@ -698,7 +700,7 @@
 							"image_value": {
 								"height": 419,
 								"width": 800,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=800x419"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=800x419"
 							},
 							"type": "IMAGE"
 						},
@@ -706,7 +708,7 @@
 							"image_value": {
 								"height": 81,
 								"width": 144,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=144x144"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=144x144"
 							},
 							"type": "IMAGE"
 						},
@@ -714,7 +716,7 @@
 							"image_value": {
 								"height": 900,
 								"width": 1600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=png&name=2048x2048_2_exp"
 							},
 							"type": "IMAGE"
 						},
@@ -722,7 +724,7 @@
 							"image_value": {
 								"height": 900,
 								"width": 1600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 							},
 							"type": "IMAGE"
 						},
@@ -739,7 +741,7 @@
 							"image_value": {
 								"height": 314,
 								"width": 600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=600x314"
 							},
 							"type": "IMAGE"
 						},
@@ -806,7 +808,7 @@
 							"image_value": {
 								"height": 900,
 								"width": 1600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=png&name=2048x2048_2_exp"
 							},
 							"type": "IMAGE"
 						},
@@ -814,7 +816,7 @@
 							"image_value": {
 								"height": 314,
 								"width": 600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=600x314"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=600x314"
 							},
 							"type": "IMAGE"
 						},
@@ -849,7 +851,7 @@
 							"image_value": {
 								"height": 900,
 								"width": 1600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=png&name=2048x2048_2_exp"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=png&name=2048x2048_2_exp"
 							},
 							"type": "IMAGE"
 						},
@@ -862,7 +864,7 @@
 							"image_value": {
 								"height": 900,
 								"width": 1600,
-								"url": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+								"url": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 							},
 							"type": "IMAGE"
 						}
@@ -870,10 +872,11 @@
 					"type": "summary_large_image",
 					"title": "OpenAI",
 					"description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
-					"image": "https://pbs.twimg.com/card_img/1788368755833159680/ytwvK99a?format=jpg&name=orig"
+					"image": "https://pbs.twimg.com/card_img/1820939737391362048/zHpDenFD?format=jpg&name=orig"
 				}
 			}
-		}
+		},
+		"settings": ""
 	},
 	{
 		"id": "1789137868381642969",
@@ -887,7 +890,7 @@
 				"all": {
 					"__typename": "Tweet",
 					"lang": "en",
-					"favorite_count": 44775,
+					"favorite_count": 44850,
 					"possibly_sensitive": false,
 					"created_at": "2024-05-11T03:38:03.000Z",
 					"display_text_range": [0, 108],
@@ -910,7 +913,7 @@
 					"user": {
 						"id_str": "2961936246",
 						"name": "LilHumansBigImpact",
-						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1781855923520106496/Bhf-BLIL_normal.jpg",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/1818628530579660800/qk17XhGC_normal.jpg",
 						"screen_name": "BigImpactHumans",
 						"verified": false,
 						"is_blue_verified": true,
@@ -925,7 +928,7 @@
 					"mediaDetails": [
 						{
 							"additional_media_info": {},
-							"display_url": "pic.twitter.com/vS9oL9pOqp",
+							"display_url": "pic.x.com/vs9ol9poqp",
 							"expanded_url": "https://twitter.com/BigImpactHumans/status/1789137868381642969/video/1",
 							"ext_media_availability": {"status": "Available"},
 							"indices": [109, 132],
@@ -949,7 +952,7 @@
 								"variants": [
 									{
 										"content_type": "application/x-mpegURL",
-										"url": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14&container=cmaf"
+										"url": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14"
 									},
 									{
 										"bitrate": 632000,
@@ -980,7 +983,7 @@
 						"variants": [
 							{
 								"type": "application/x-mpegURL",
-								"src": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14&container=cmaf"
+								"src": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14"
 							},
 							{
 								"type": "video/mp4",
@@ -998,16 +1001,16 @@
 						"videoId": {"type": "tweet", "id": "1789137868381642969"},
 						"viewCount": 0
 					},
-					"conversation_count": 255,
+					"conversation_count": 253,
 					"news_action_type": "conversation",
 					"isEdited": false,
 					"isStaleEdit": false
 				},
 				"text": "The Aurora borealis is being seen across the United States! <br/><br/>Go outside and see if you can catch a glimpse!",
-				"likes": 44775,
-				"replies": 255,
+				"likes": 44850,
+				"replies": 253,
 				"createdAt": "3:38 AM · 11 May 2024",
-				"avatar": "https://pbs.twimg.com/profile_images/1781855923520106496/Bhf-BLIL_400x400.jpg",
+				"avatar": "https://pbs.twimg.com/profile_images/1818628530579660800/qk17XhGC_400x400.jpg",
 				"name": "LilHumansBigImpact",
 				"username": "BigImpactHumans",
 				"verified": false,
@@ -1018,7 +1021,7 @@
 				"video": [
 					{
 						"type": "application/x-mpegURL",
-						"src": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14&container=cmaf"
+						"src": "https://video.twimg.com/amplify_video/1789137792489906176/pl/krFzqfc7ADyFbkAM.m3u8?tag=14"
 					},
 					{
 						"type": "video/mp4",
@@ -1035,7 +1038,8 @@
 				],
 				"cardPreview": null
 			}
-		}
+		},
+		"settings": ""
 	},
 	{
 		"id": "1789037714660290789",
@@ -1049,7 +1053,7 @@
 				"all": {
 					"__typename": "Tweet",
 					"lang": "en",
-					"favorite_count": 173,
+					"favorite_count": 177,
 					"possibly_sensitive": false,
 					"created_at": "2024-05-10T21:00:04.000Z",
 					"display_text_range": [0, 82],
@@ -1086,7 +1090,7 @@
 					},
 					"mediaDetails": [
 						{
-							"display_url": "pic.twitter.com/VQ7aRkZTOP",
+							"display_url": "pic.x.com/vq7arkztop",
 							"expanded_url": "https://twitter.com/TylerNickerson/status/1789037714660290789/photo/1",
 							"ext_media_availability": {"status": "Available"},
 							"indices": [82, 105],
@@ -1134,7 +1138,7 @@
 					"isStaleEdit": false
 				},
 				"text": "Man Midjourney has absolutely NAILED their web UI 🔥<br/><br/>So much better than Discord.",
-				"likes": 173,
+				"likes": 177,
 				"replies": 18,
 				"createdAt": "9:00 PM · 10 May 2024",
 				"avatar": "https://pbs.twimg.com/profile_images/1677460809067409408/ZLAFqbRf_400x400.jpg",
@@ -1145,7 +1149,8 @@
 				"images": ["https://pbs.twimg.com/media/GNPwUKfbcAEN2KE.jpg"],
 				"cardPreview": null
 			}
-		}
+		},
+		"settings": ""
 	},
 	{
 		"id": "1788803209441546533",
@@ -1159,7 +1164,7 @@
 				"all": {
 					"__typename": "Tweet",
 					"lang": "en",
-					"favorite_count": 20,
+					"favorite_count": 19,
 					"possibly_sensitive": false,
 					"created_at": "2024-05-10T05:28:14.000Z",
 					"display_text_range": [0, 49],
@@ -1196,7 +1201,7 @@
 					},
 					"mediaDetails": [
 						{
-							"display_url": "pic.twitter.com/iZ9l8ybmZs",
+							"display_url": "pic.x.com/iz9l8ybmzs",
 							"expanded_url": "https://twitter.com/FrancescoCiull4/status/1788803209441546533/photo/1",
 							"ext_media_availability": {"status": "Available"},
 							"indices": [47, 70],
@@ -1244,7 +1249,7 @@
 					"isStaleEdit": false
 				},
 				"text": "Well, it seems that Apple CRUSHED the week 🔥🔥🔥",
-				"likes": 20,
+				"likes": 19,
 				"replies": 0,
 				"createdAt": "5:28 AM · 10 May 2024",
 				"avatar": "https://pbs.twimg.com/profile_images/1617044903636123650/pYUcGGOu_400x400.jpg",
@@ -1255,6 +1260,7 @@
 				"images": ["https://pbs.twimg.com/media/GNMa5fPWkAASTQD.jpg"],
 				"cardPreview": null
 			}
-		}
+		},
+		"settings": ""
 	}
 ]

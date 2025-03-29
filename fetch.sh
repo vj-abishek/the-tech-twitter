@@ -37,6 +37,8 @@ fetch_tweet() {
 while IFS= read -r line; do
   if [[ "$line" == "# "* ]]; then
      current_heading="${line#* }"
+  elif [[ "$line" == *---* ]]; then
+    current_settings="$line"
   elif [[ "$line" == "## "* ]]; then
     current_subheading="${line##'## '}"
   elif [[ "$line" == *https* ]]; then
@@ -45,6 +47,7 @@ while IFS= read -r line; do
     echo "Subheading: $current_subheading"
     echo "Content: $current_content"
     echo "Link: $current_link"
+    echo "Settings: $current_settings"
     link_id=$(echo $current_link | awk -F '/' '{print $NF}')
     tweet=$(fetch_tweet "$link_id")
     final_json=$(jq --arg heading "$current_heading" \
@@ -52,11 +55,13 @@ while IFS= read -r line; do
                     --arg content "$current_content" \
                     --arg link "$current_link" \
                     --arg id "$link_id" \
+                    --arg settings "$current_settings" \
                     --argjson tweet "$tweet" \
-                    '. += [{"id": $id, "heading": $heading, "subheading": $subheading, "content": $content, "link": $link, "tweet": $tweet}]' <<< "$final_json")
+                    '. += [{"id": $id, "heading": $heading, "subheading": $subheading, "content": $content, "link": $link, "tweet": $tweet, "settings": $settings }]' <<< "$final_json")
     sleep 2
     current_content=""
     current_link=""
+    current_settings=""
   else
     current_content+="$line"
   fi
@@ -66,7 +71,7 @@ echo $final_json > $output_file
 
  if [ $? -eq 0 ]; then
     echo "Data successfully fetched and saved to $output_file"
-    npx remotion studio --props='./output.json'
+    # npx remotion studio --props='./output.json'
     # npx remotion render 'src/index.ts' YTShorts --props='./output.json'
 else
     echo "Failed to fetch data"

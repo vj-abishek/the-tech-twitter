@@ -4,6 +4,8 @@
 Finder is actually smart 🤯
 Where it can able to get content when typed "Files I opened today" or "Photos I opened today"
 
+--- play_full: true
+
 https://twitter.com/hieudinh_/status/1789093149509304731
 
 ## Universal Basic Compute Proposal
